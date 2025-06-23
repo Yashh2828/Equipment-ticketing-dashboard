@@ -12,7 +12,7 @@ This is a web-based Ticket/Problem Raising System designed for internal use by e
   
 ###  Dashboards
 - **End User Dashboard**: 
-  - View own profile
+  - View own profil
   - Add assigned equipment
   - Raise new issue tickets
   - Track ticket status (Open, In-Progress, Closed, Verified)
